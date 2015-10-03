@@ -1,0 +1,7 @@
+---- Lesson 2 ----
+
+What happens when you initialize a repository? Why do you need to do it?
+
+1. a .git dir is created
+2. we need it to track files later
+

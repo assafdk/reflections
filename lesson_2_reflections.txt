@@ -10,3 +10,22 @@ How is the staging area different from the working directory and the repository?
 1. the staging area lets you continue working on the files in it while it tracks them.
 	it doesn't save them though.
 2. it lets you choose to track some of the files in your directory while not tracking others.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+1. it shows you exactly what you're about to commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+1. when you want to try new things that might effect the function of your code
+2. for different versions of the same code
+
+How do the diagrams help you visualize the branch structure?
+
+1. they show you who's who's parent
+2. you get to see the different branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+1. we get a conbined code of the two
+2. 2 branches = 2 workflows
